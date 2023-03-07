@@ -1,9 +1,10 @@
 def main():
-    main.numbers = [5, 20, 30, 30, 35]
-    delval = int(input('Enter the deletion value: '))
+    num1 = list(map(int, input().split()))
+    num2 = list(map(int, input().split()))
     ##################################################
     # Code your program here
     ##################################################
+
 
 ##
 
